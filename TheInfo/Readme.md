@@ -6,3 +6,4 @@ There is nothing special about it and its in very WIP
 ### Development
 If you want to try the app, download the project and navigate to: \C--Projects\TheInfo\TheInfo\bin\Release\app.publish and run the TheInfo.exe
 
+![Screenshot](TheInfo/PictureTheInfo.png)
